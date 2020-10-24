@@ -13,6 +13,9 @@ Team Member 2: Salsabeel Adel
 Team Member 3: Norhan Zakaria 
 
 ....
+Screencasts: 1 for test recognition (( https://drive.google.com/file/d/1igTglz-MG4EREwR6BoYvB0JuFG2JzgDv/view?usp=drivesdk ))
+             2 for test capture     (( https://drive.google.com/file/d/1iiLFOTLlaJp3D7W2HapUOo5Q1K6rtOVu/view?usp=drivesdk ))
+....
 
 steps to run the program:
 
